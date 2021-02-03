@@ -12,5 +12,3 @@ Devices Near me...
 4.Mobile
 
 5.Chargers
-
-6.Headphones

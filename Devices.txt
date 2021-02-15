@@ -11,4 +11,4 @@ Devices Near me...
 
 4.Mobile
 
-5.Chargers
+5.Charger
